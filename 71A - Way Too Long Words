@@ -11,3 +11,5 @@ for i in range (w):
         print(x[0] + str(len(x)- 2) + x[-1])
     else:
         print(x)
+
+
